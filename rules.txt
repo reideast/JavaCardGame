@@ -1,0 +1,24 @@
+Fortune's Tower is a game of chance and betting, where you must decide to play it safe, or try for more winnings by
+dealing out more and more cards! The numbered cards are dealt in rows of increasing size, until eight rows are fully
+dealt out in a pyramid shape. With each larger row, you might get more chips, but there is more risk of Misfortune.
+
+A Misfortune happens when a card is dealt out and matches either of the cards above it. This normally ends the round
+with no winnings, but you can be saved from a Misfortune by a Knight. If such a card is dealt out in a row, it prevents
+all Misfortunes that were dealt out in that row only.
+
+When you decide to take a row safely, you get its value in chips back into your bank. Once you take a row, the rest of
+the cards are dealt out, to see if you could have gotten more chips, or if you made the right descision.
+
+If you can deal out all eight rows of cards without a Misfortune, you will get a Jackpot! This is great fortune, since
+you will receive the value of ALL the cards on the board back into your bank.
+
+You start with 500 chips in your bank, and you must ante at least 15 chips to deal a round. You may increase the ante,
+and each factor of 15 (up to 150) will multiply your winnings by that amount! How much do you want to risk each round?
+
+When all the cards in a row match, your potential winnings will be multipled by that number of cards. So, if all three
+cards in the third row match, you'll get triple what your normally would! This is cumulative with your ante multiplier.
+
+The goal is to double your original amount of chips. If you have too few chips to make the minimum bet, the game is over.
+
+Note: You can use the keyboard to control the game. Press Alt + the underlined letters in the bottons to play faster.
+
